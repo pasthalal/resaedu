@@ -1,0 +1,4 @@
+name = aksubtheme
+description = This is a sub-theme of theme Commons Origins, made by Ak for the web site resaedu.com
+core = 7.x
+base theme = commons origins
